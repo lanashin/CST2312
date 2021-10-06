@@ -1,2 +1,2 @@
-# CST23122
+# CST2312
 Advanced python class
